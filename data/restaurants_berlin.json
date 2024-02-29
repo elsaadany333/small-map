@@ -1,0 +1,92 @@
+[
+    {
+        "id": 100,
+        "name": "Lebensmittel in Mitte",
+        "bezirk": "Mitte",
+        "addresse": "Rochstraße 2, 10178 Berlin",
+        "latitude": 52.52573,  
+        "longitude": 13.40676,
+        "image": "../fotos/res1.jpg"
+    },
+    {
+        "id": 101,
+        "name": "Soy Berlin Mitte",
+        "bezirk": "Mitte",
+        "addresse": "Rosa-Luxemburg-Straße 30, 10178 Mitte",
+        "latitude": 52.52693,
+        "longitude": 13.41157,
+        "image": "../fotos/res2.jpg"
+    },
+    {
+        "id": 102,
+        "name": "Kuchi Mitte",
+        "bezirk": "Mitte",
+        "addresse": "Gipsstraße 3, 10119 Mitte",
+        "latitude": 52.52845,
+        "longitude": 13.39904,
+        "image": "../fotos/res3.jpg"
+    },
+    {
+        "id": 103,
+        "name": "Chopstix",
+        "bezirk": "Mitte",
+        "addresse": "Dircksenstraße 35, 10178 Berlin",
+        "latitude": 52.52340, 
+        "longitude": 13.40940,
+        "image": "../fotos/res4.jpg"
+    },
+    {
+        "id": 104,
+        "name": "Night Kitchen",
+        "bezirk": "Mitte",
+        "addresse": "Heckmann Höfe, Oranienburger Str. 32, 10115 Berlin-Mitte",
+        "latitude": 52.52789,
+        "longitude": 13.39345,
+        "image": "../fotos/res4.jpg"
+    },
+    {
+        "id": 105,
+        "name": "BLOCK HOUSE",
+        "bezirk": "Mitte",
+        "addresse": "Karl-Liebknecht-Str. 7, 10178 Berlin",
+        "latitude": 52.52135,
+        "longitude": 13.40530,
+        "image": "../fotos/res1.jpg"
+    },
+    {
+        "id": 106,
+        "name": "Hummus & Friends",
+        "bezirk": "Mitte",
+        "addresse": "Oranienburger Str. 27, 10117 Berlin",
+        "latitude": 52.52475,
+        "longitude": 13.39509,
+        "image": "fotos/hummus.jpg"
+    },
+    {
+        "id": 107,
+        "name": "Ristorante Roma",
+        "bezirk": "Mitte",
+        "addresse": "Friedrichstraße 129, 10117 Berlin",
+        "latitude": 52.52540,
+        "longitude": 13.38721,
+        "image": "../fotos/res3.jpg"
+    },
+    {
+        "id": 108,
+        "name": "Restaurant „Ursprung",
+        "bezirk": "Mitte",
+        "addresse": "Friedrichstraße 90, 10117 Berlin",
+        "latitude": 52.51868,
+        "longitude": 13.38906,
+        "image": "../fotos/res4.jpg"
+    },
+    {
+        "id": 109,
+        "name": "Barcelona Tapas Bar Restaurant",
+        "bezirk": "Mitte",
+        "addresse": "Friedrichstraße 211, 10969 Berlin",
+        "latitude": 52.50752,
+        "longitude": 13.39049,
+        "image": "../fotos/res4.jpg"
+    }
+]

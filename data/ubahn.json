@@ -1,0 +1,116 @@
+[
+    {
+        "id":300,
+        "name": "U Hausvogteiplatz",
+        "bezirk":"Mitte",
+        "addresse":"Hausvogteiplatz",
+        "plz":10117,
+        "latitude":52.51340,
+        "longitude":13.39531,
+        "image":"../fotos/u-hausvogteiplatz.jpg"
+
+    },
+    {
+        
+        "id":301,
+        "name":"U Rosa-Luxemburg-platz",
+        "bezirk":"Mitte",
+        "addresse":"Rosa-Luxemburg-platz",
+        "plz":10178,
+        "latitude":52.52818,
+        "longitude":13.41024,
+        "image":"../fotos/rosa-luxemburg-platz.jpg"
+
+    },
+    {
+        "id":302,
+        "name":"U Strausbergerplatz",
+        "bezirk":"Mitte",
+        "addresse":"Strausbergerplatz",
+        "plz":10243,
+        "latitude":52.51790,
+        "longitude":13.43205,
+        "image":"./fotos/Strausbergerplatz.jpg"
+
+
+    },
+    {
+        
+        "id":303,
+        "name": "U Heinrich-Heine-straße",
+        "bezirk":"Mitte",
+        "addresse":"Heinrich-Heine-straße",
+        "plz":10179,
+        "latitude":52.51001,
+        "longitude":13.41642,
+        "image":"../fotos/Heinrich-heine-straße.jpg"
+
+    },
+    {
+         
+        "id":304,
+        "name": "U Märkischen Museum",
+        "bezirk":"Mitte",
+        "addresse":"Märkischen Museum",
+        "plz":10179,
+        "latitude":52.51257,
+        "longitude":13.41102,
+        "image":"../fotos/märkischen museum.jpg"
+
+    },
+    {
+        "id":305,
+        "name": "U Jonnowitzbrücke",
+        "bezirk":"Mitte",
+        "addresse":"Jonnowitzbrücke",
+        "plz":10179,
+        "latitude":52.51419,
+        "longitude":13.42029,
+        "image":"../fotos/Jannowitzbrücke.jpg"
+
+    },
+    {
+        "id":306,
+        "name": "U SchwartzkoffStraße",
+        "bezirk":"Mitte",
+        "addresse":"Schwartzkoffstraße",
+        "plz":10115,
+        "latitude":52.53586,
+        "longitude":13.37661,
+        "image":"../fotos/Schwartzerkopffstraße.jpg"
+
+    },
+    {
+        "id":307,
+        "name": "U Leopoldplatz",
+        "bezirk":"Mitte",
+        "addresse":"Leopoldplatz",
+        "plz":13353,
+        "latitude":52.54677,
+        "longitude":13.35918,
+        "image":"../fotos/Leopoldplatz.jpg"
+
+    },
+    {
+        "id":308,
+        "name": "U Amrumer Sraße",
+        "bezirk":"Mitte",
+        "addresse":"Amrumer Straße",
+        "plz":13353,
+        "latitude":52.54220,
+        "longitude":13.34960,
+        "image":"../fotos/Amrumer straße.jpg"
+
+    },
+    {
+        "id":309,
+        "name": "U Afrikanische Sraße",
+        "bezirk":"Mitte",
+        "addresse":"Afrikanische Straße",
+        "plz":13349,
+        "latitude":52.56014,
+        "longitude":13.33447,
+        "image":"../fotos/Afrikanische Straße.jpg"
+
+    }
+]

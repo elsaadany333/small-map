@@ -1,0 +1,11 @@
+[
+    {
+        "id": 200,
+        "name": "Flughafen Berlin Brandenburg",
+        "bezirk": "Brandenburg",
+        "addresse": "Melli-Beese-Ring 1, 12529 Schönefeld",
+        "latitude": 52.36519, 
+        "longitude": 13.50116,
+        "image": "../fotos/airport.jpg"
+    }
+]

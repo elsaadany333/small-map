@@ -1,0 +1,100 @@
+[ {
+    "id":200,
+    "name":"Hotel Eurostars Berlin",
+    "bezirk":"Berlin-Mitte",
+    "addresse":"Friedrichstraße 99, 10117 Berlin",
+    "latitude":52.52586, 
+    "longitude":13.37988,
+    "image":"../fotos/hotelEuroStars.jpg"
+},
+{
+    "id":201,
+    "name":"Hotel Adlon Kempinski Berlin",
+    "bezirk":"Berlin-Mitte",
+    "addresse":"Unter den Linden 77, 10117 Berlin",
+    "latitude":52.51586, 
+    "longitude":13.37988,
+    "image":"../fotos/hotelKempinski.jpg"
+},
+{
+    "id":202,
+    "name":"Regent Berlin",
+    "bezirk":"Berlin-Mitte",
+    "addresse":"Charlottenstraße 49, 10117 Berlin",
+    "latitude":52.51556, 
+    "longitude":13.39027,
+    "image":"../fotos/hotelRegent.jpg"
+},
+{
+    "id":203,
+    "name":"The Westin Grand Berlin",
+    "bezirk":"Berlin-Mitte",
+    "addresse":"Friedrichstraße 158-164, 10117 Berlin",
+    "latitude":52.51594, 
+    "longitude":13.38849,
+    "image": "../fotos/hotelWestinGrand.jpg"
+},
+{
+    "id":204,
+    "name":"Maritim proArte Hotel Berlin",
+    "bezirk":"Berlin-Mitte",
+    "addresse":"Dorotheenstraße 65, 10117 Berlin",
+    "latitude":52.51847, 
+    "longitude":13.38617,
+    "image":"../fotos/hotelMaritimProArte.jpg"
+},
+{
+    "id":205,
+    "name":"Hotel Château Royal Berlin",
+    "bezirk":"Berlin-Mitte",
+    "addresse":"Neustädtische Kirchstraße 3, 10117 Berlin",
+    "latitude":52.51767, 
+    "longitude":13.38582,
+    "image":"../fotos/hotelChateauRoyal.jpg"
+},
+{
+    "id":206,
+    "name":"Arte Luise Kunsthotel",
+    "bezirk":"Berlin-Mitte",
+    "addresse":"Luisenstraße 19, 10117 Berlin",
+    "latitude":52.521714, 
+    "longitude":13.37906,
+    "image":"../fotos/hotelArteLuise.jpg"
+},
+{
+    "id":207,
+    "name":"Best Western Hotel Berlin-Mitte",
+    "bezirk":"Berlin-Mitte",
+    "addresse":"Albrechtstraße 25, 10117 Berlin",
+    "latitude":52.52397, 
+    "longitude":13.38338,
+    "image":"../fotos/hotelBestWestern.jpg"
+},
+{
+    "id":208,
+    "name":"Hotel AMO by AMANO",
+    "bezirk":"Berlin-Mitte",
+    "addresse":"Friedrichstraße 113, 10117 Berlin",
+    "latitude":52.52597, 
+    "longitude":13.38773,
+    "image":"../fotos/hotelAmoByAmano.jpg"
+},
+{
+    "id":209,
+    "name":"Hotel 38",
+    "bezirk":"Berlin-Mitte",
+    "addresse":"Oranienburger Str.38, 10117 Berlin",
+    "latitude":52.52575, 
+    "longitude":13.39096,
+    "image":"../fotos/hotel38.jpg"
+},
+{
+    "id":210,
+    "name":"Leonardo Hotel Berlin Mitte",
+    "bezirk":"Berlin-Mitte",
+    "addresse":"Bertolt-Brecht-Platz 4, 10117 Berlin",
+    "latitude":52.52256, 
+    "longitude":13.38606,
+    "image":"../fotos/hotelLeonardo.jpg"
+}
+]
